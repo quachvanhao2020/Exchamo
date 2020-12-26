@@ -1,11 +1,11 @@
 <?php
-namespace Exchamo\Api\Rest\Expense;
+namespace Exchamo\Api\V1\Rest\Expense;
 use Exchamo\Expense;
 use Doctrine\ORM\Mapping as ORM;
 
 /**
  * @ORM\Entity
- * @ORM\Table(name="expense")
+ * @ORM\Table(name="expenses")
  */
 class Entity extends Expense{
 

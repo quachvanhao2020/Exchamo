@@ -1,5 +1,5 @@
 <?php
-namespace Exchamo\Api\Rest\Income;
+namespace Exchamo\Api\V1\Rest\Income;
 use Exchamo\Income;
 use Laminas\Paginator\Paginator;
 
